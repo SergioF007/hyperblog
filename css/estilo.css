@@ -3,4 +3,20 @@ body
     color: red;
     text-align: center;
     font-family: "Arial";
+    margin: 0;
+    padding: 0;
+}
+
+#continer
+{
+    width: 70%;
+    padding: 1em;
+    text-align: left;
+    border: 2px solid #ddd;
+    margin: 2 auto;
+}
+
+#container h1
+{
+    font-size: 20px;
 }
