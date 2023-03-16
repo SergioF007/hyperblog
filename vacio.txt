@@ -1,1 +1,3 @@
 menensaje secreto
+
+alias arbol="git log --all --graph --decorate --oneline"
